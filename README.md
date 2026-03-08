@@ -1,0 +1,1 @@
+Correr desde interfaz princinpal 
